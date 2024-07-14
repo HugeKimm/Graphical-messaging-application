@@ -7,4 +7,5 @@ Installation
 pip install paho-mqtt
 ```
 After installation, you can verify if the module is properly installed by opening a Python session and trying to import it:
-import paho.mqtt.client as mqtt
+
+``import paho.mqtt.client as mqtt``
